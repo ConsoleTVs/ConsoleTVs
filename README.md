@@ -3,19 +3,26 @@
 I'm **Èrik**, an ICT systems engineer. I am a language freak and can code in any major language on many different areas of computing.
 From plain old C-99 to modern Rust.
 
-The order of the languages listed can be interpreted from left to right based on the level of proficiency on it. Starting with the most proficiency on the left.
+**I work professionally on any of those areas:**
+
+- Website/Mobile/Desktop Design
+- Website/Mobile/Desktop Front-end
+- Back-end Engineering / API Design & Implementation
+- Database Tasks & Administration
+- CLI Applications or Services
+- Unix Dev-ops
 
 I've also made my own programming language as part of a bachelor thesis at https://github.com/nuua-io
 
 ## Working Areas & Languages / Frameworks used.
 
-Here to check my work or stuff I work with to make a computer go *beep boop* ? 
+Are you here to check some of my work and languages / tools I use? Below you'll find a categorized list to check it out.
+
+The order of the languages listed can be interpreted from left to right based on the level of proficiency on it. Starting with the most proficiency on the left.
 
 ### High performance & efficiency
 
 For those who seek high performance low-level applications.
-
-#### Example repositories
 
 <table>
   <tr>
@@ -230,48 +237,6 @@ As a solo developer or someone who work on small teams, native tech is not reall
         <li><a href="https://github.com/ConsoleTVs/Websok">Websok (Lib)</a></li>
         <li><a href="https://github.com/ConsoleTVs/AdonisWebsok">Adonis Websok (Lib)</a></li>
       </ul>
-    </td>
-  </tr>
-</table>
-
-### Learning
-
-Those are the languages or tech I'm learning as for 2021.
-
-<table>
-  <tr>
-    <th align="center">Swift</th>
-    <th align="center">Unreal Engine</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://i.pinimg.com/originals/8f/50/63/8f50630ae0e1775196e4c270c573ce67.png" height="60">
-    </td>
-    <td align="center">
-      <img src="https://cdn.iconscout.com/icon/free/png-512/unreal-engine-555438.png" height="60">
-    </td>
-  </tr>
-</table>
-
-### Not for now
-
-I just don't like them. Nothing against them. Personal choice.
-
-<table>
-  <tr>
-    <th align="center">Java</th>
-    <th align="center">.NET</th>
-    <th align="center">C#</th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png" height="60">
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/.NET_Logo.svg/1200px-.NET_Logo.svg.png" height="60">
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/1200px-C_Sharp_logo.svg.png" width="60">
     </td>
   </tr>
 </table>

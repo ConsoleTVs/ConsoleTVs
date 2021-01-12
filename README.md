@@ -14,6 +14,8 @@ From plain old C-99 to modern Rust.
 
 I've also made my own programming language as part of a bachelor thesis at https://github.com/nuua-io
 
+You can contact me at the email found below my avatar, in the information section.
+
 ## Working Areas & Languages / Frameworks used.
 
 Are you here to check some of my work and languages / tools I use? Below you'll find a categorized list to check it out.

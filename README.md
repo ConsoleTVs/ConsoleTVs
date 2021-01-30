@@ -242,3 +242,5 @@ As a solo developer or someone who work on small teams, native tech is not reall
     </td>
   </tr>
 </table>
+
+<img src="https://i.ibb.co/k9Nq5cz/Logo-Gencat-IOJ-web-GJ-1.png" width="240">

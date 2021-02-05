@@ -16,6 +16,9 @@ I've also made my own programming language as part of a bachelor thesis at https
 
 You can contact me at the email found below my avatar, in the information section.
 
+<img src="https://i.ibb.co/FVGFN8y/unnamed-1.png" width="200">
+<img src="https://i.ibb.co/k9Nq5cz/Logo-Gencat-IOJ-web-GJ-1.png" width="200">
+
 ## Working Areas & Languages / Frameworks used.
 
 Are you here to check some of my work and languages / tools I use? Below you'll find a categorized list to check it out.
@@ -242,6 +245,3 @@ As a solo developer or someone who work on small teams, native tech is not reall
     </td>
   </tr>
 </table>
-
-<img src="https://i.ibb.co/FVGFN8y/unnamed-1.png" width="240">
-<img src="https://i.ibb.co/k9Nq5cz/Logo-Gencat-IOJ-web-GJ-1.png" width="240">

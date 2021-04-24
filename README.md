@@ -1,7 +1,6 @@
 ## About me
 
-I'm **Èrik**, an ICT systems engineer & senior developer. I am a language freak and can code in any major language on many different areas of computing.
-From plain old C-99 to modern Rust.
+I'm **Èrik**, an ICT systems engineer & senior developer. I work with over 15 programming languages on many different areas of computing.
 
 **I work professionally on any of those areas:**
 
